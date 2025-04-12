@@ -7,14 +7,27 @@ I am an enthusiastic Full-Stack Developer with a keen interest in building scala
 - 💻 **Aspiring Full-Stack Developer | Passionate about Tech & Innovation**
 - 🌱 Passionate about Full-Stack Development with a strong foundation in both frontend and backend technologies
 
-### 🛠️ Tech Stack & Skills
-- **Frontend**: HTML, CSS, JavaScript, React.js
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Other Tools**: Git, GitHub, VS Code
 
 ### 📈 GitHub Stats
 ![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjeswani01&show_icons=true&theme=radical)
+
+---
+
+## 🛠️ **Languages and Tools**
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="#"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-%23E34F26.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"></a>
+ 
+</p>
+
+---
 
 ## 🌐 **Connect with Me**
 
@@ -22,6 +35,7 @@ I am an enthusiastic Full-Stack Developer with a keen interest in building scala
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitjeswani01/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeswanimohit959@gmail.com)
 
+---
 
 ### 🚀 Let's Collaborate!
 I'm always open to discussing **new projects, ideas, and collaborations**. Feel free to **reach out**! 🚀
