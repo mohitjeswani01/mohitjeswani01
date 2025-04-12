@@ -14,7 +14,7 @@ I am an enthusiastic Full-Stack Developer with a keen interest in building scala
 - **Other Tools**: Git, GitHub, VS Code
 
 ### 📈 GitHub Stats
-![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjeswan&show_icons=true&theme=radical)
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjeswan01&show_icons=true&theme=radical)
 
 ### 🌍 Connect with Me
 - 📧 Email: [jeswanimohit959@gmail.com](mailto:jeswanimohit959@gmail.com)
