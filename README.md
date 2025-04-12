@@ -16,10 +16,12 @@ I am an enthusiastic Full-Stack Developer with a keen interest in building scala
 ### 📈 GitHub Stats
 ![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitjeswani01&show_icons=true&theme=radical)
 
-### 🌍 Connect with Me
-- 📧 Email: [jeswanimohit959@gmail.com](mailto:jeswanimohit959@gmail.com)
-- 🔗 LinkedIn: [Mohit Jeswani](https://www.linkedin.com/in/mohit-jeswani-a06838309/)
-- 🏆 GitHub: [mohitjeswan](https://github.com/mohitjeswan)
+## 🌐 **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-jeswani-a06838309/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitjeswani01/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeswanimohit959@gmail.com)
+
 
 ### 🚀 Let's Collaborate!
 I'm always open to discussing **new projects, ideas, and collaborations**. Feel free to **reach out**! 🚀
