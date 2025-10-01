@@ -2,10 +2,10 @@
 
 ### 🚀 About Me
 I am an enthusiastic Full-Stack Developer with a keen interest in building scalable and efficient applications. Currently pursuing my Computer Science degree at VESIT , I am passionate about technology and innovation. I enjoy working on both frontend and backend development, constantly exploring new frameworks and tools to enhance my skills. My current focus is on mastering the MERN stack while also SQL. I have a strong interest in Data Structures and Algorithms (DSA) as I believe they are essential for writing optimized and efficient code. Alongside technical growth, I am also committed to improving my communication skills and problem-solving abilities. At present, I am working on **CarConnect**, where I get to apply my learning and push my boundaries as a developer.
-- 🚗 Currently working on **PerfectFrame AI**
+-  Currently working on **PerfectFrame AI**
 - 💡 Interested in Data Structures and Algorithms (DSA) for writing optimized code
 - 💻 **Aspiring Full-Stack Developer | Passionate about Tech & Innovation**
-- 🌱 Passionate about Full-Stack Development with a strong foundation in both frontend and backend technologies
+- 🌱 Passionate about Full-Stack Development with a strong foundation in backend technologies
 
 
 ### 📈 GitHub Stats
