@@ -20,7 +20,7 @@ I care about **correctness, system design, and production-ready code** more than
 
 - Contributor to Kestra (open-source workflow orchestration platform)
 - ✅ Merged Pull Requests:
-  - [https://github.com/kestra-io/kestra/pull/XXXX](https://github.com/kestra-io/kestra/pull/14308)
+  - [github.com/kestra-io/kestra/pull/14308](https://github.com/kestra-io/kestra/pull/14308)
 
 **Focus areas:** automation workflows, backend-related fixes, and code quality.
 
