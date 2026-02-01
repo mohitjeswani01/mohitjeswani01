@@ -22,7 +22,7 @@ I care about **correctness, system design, and production-ready code** more than
 - ✅ Merged Pull Requests:
   - [github.com/kestra-io/kestra/pull/14308](https://github.com/kestra-io/kestra/pull/14308)
 
-**Focus areas:** automation workflows, backend-related fixes, and code quality.
+**Focus areas:** automation workflows, frontend-related fixes, and code quality.
 
 *(This list grows as more PRs get merged.)*
 
