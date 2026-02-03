@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Mohit Jeswani  
 
 🚀 **Backend-leaning Software Engineer** focused on building **scalable systems, clean APIs, and automation-driven workflows**.  
-🎓 Computer Engineering student at **VESIT, Mumbai**.
+🎓Final Year Computer Engineering student at **VESIT, Mumbai**.
 
 I care about **correctness, system design, and production-ready code** more than buzzwords.
 
