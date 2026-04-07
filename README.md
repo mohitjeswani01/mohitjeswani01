@@ -3,9 +3,8 @@
 ### **Software Engineer | Open Source Contributor | Technical Analyst**
 **Specializing in AI Orchestration, Scalable Backend Systems, and Workflow Automation.**
 
-**Actively seeking Full-Time Software Engineering opportunities | Open for high-impact Bounties.**
+**Actively seeking Full-Time Software Engineering opportunities | Committed to Open Source principles and community-driven development**
 
-[![Algora](https://img.shields.io/badge/Open_for_Bounties-Algora-purple?style=for-the-badge&logo=algora)](https://algora.io/mohitjeswani01) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohit-jeswani-a06838309/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel)](https://portfolio.mohitcodes.xyz/)
 
