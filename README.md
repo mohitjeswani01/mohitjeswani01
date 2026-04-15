@@ -78,7 +78,7 @@ I contribute production-ready code to enterprise-grade orchestration platforms.
 
 ---
 
-## 🌱 Seeking Bounties In:
+## 🌱 Skilled In:
 
 ### ⚙️ **Backend & Infrastructure**
 * **Scalable Systems:** Complex business workflows and API design in **Java**, **Node.js**, or **PHP**.
