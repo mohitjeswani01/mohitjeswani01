@@ -14,7 +14,6 @@
 
 ### **Winner: "Back to the Metadata" Hackathon — GitHub Contribution Track**
 * **Winner for Open Source Contributions** in the **GitHub Contribution Track**.
-* **Contributed 20+ Pull Requests** to the **OpenMetadata** ecosystem during the hackathon.
 * **Event:** Organized by **WeMakeDevs** in collaboration with **OpenMetadata / Collate**.
 * **Recognition:** Awarded for consistently shipping high-quality contributions merged into the official OpenMetadata repositories.
 
@@ -23,19 +22,21 @@
 * **Event:** Organized by **WeMakeDevs** and sponsored by **Accomplish.ai**.
 * **Recognition:** Awarded for impactful open-source contributions and merged pull requests during the hackathon.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d2d7985b-b483-440a-9a35-63d4c569d632" width="320" height="420" alt="Back to the Metadata Hackathon Winner" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/a2f92976-827e-4709-816c-07f814f953d7" width="320" height="420" alt="Automate Me If You Can Winner" /> </p>
-
+### **Winner: "Pirates of the Coral Bean" Hackathon**
+* **Winner for Open Source Contributions** with **13 merged PRs** in Coral.
+* **Event:** Organized by **WeMakeDevs** in collaboration with **Coral**.
+* **Recognition:** Awarded for impactful open-source contributions and consistently shipping code merged into the official Coral repository.
 ---
 
 ## 🌍 Open Source Proof of Work
 I contribute production-ready code to actively maintained open-source platforms and developer ecosystems.
 
 ### **[Kestra](https://github.com/kestra-io/kestra) (Workflow Orchestration)**
-* **🔍 [View All My Contributions to Kestra](https://github.com/kestra-io/kestra/pulls?q=is:pr+is:merged+author:mohitjeswani01)**
+* **🔍 [View All My Contributions to Kestra](https://github.com/pulls/search?q=is%3Apr+is%3Amerged+author%3Amohitjeswani01+org%3Akestra-io+sort%3Aupdated-desc&page=3)**
 
-### **[OpenMetadata](https://github.com/open-metadata/OpenMetadata) (Metadata & Data Governance)**
-* **🚀 Contributed 20+ Pull Requests** during the "Back to the Metadata" Hackathon.
-* **🔍 [View All My Contributions to OpenMetadata](https://github.com/open-metadata/OpenMetadata/pulls?q=is%3Apr+author%3Amohitjeswani01)**
+
+### **[Coral](https://github.com/withcoral/coral) (SQL Layer for AI Agents)** 
+* **🔍[View All My Contributions to Coral](https://github.com/withcoral/coral/pulls?q=is%3Apr+author%3Amohitjeswani01)**
 
 ---
 
