@@ -32,7 +32,7 @@
 I contribute production-ready code to actively maintained open-source platforms and developer ecosystems.
 
 ### **[Kestra](https://github.com/kestra-io/kestra) (Workflow Orchestration)**
-* **🔍 [View All My Contributions to Kestra](https://github.com/pulls/search?q=is%3Apr+is%3Amerged+author%3Amohitjeswani01+org%3Akestra-io+sort%3Aupdated-desc&page=3)**
+* **🔍 [View All My Contributions to Kestra](https://github.com/pulls/search?q=is%3Apr+is%3Amerged+author%3Amohitjeswani01+org%3Akestra-io+sort%3Aupdated-desc)**
 
 
 ### **[Coral](https://github.com/withcoral/coral) (SQL Layer for AI Agents)** 
